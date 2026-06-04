@@ -1,0 +1,13 @@
+SALES & CUSTOMER INSIGHTS - KEY INSIGHTS
+
+1. The West region generated the highest total sales, making it the strongest-performing region.
+
+2. A relatively small group of products contributed a significant portion of overall revenue, indicating concentration among top sellers.
+
+3. Technology products demonstrated strong sales performance and profitability compared to other categories.
+
+4. Sales activity increased over time, although performance varied across different periods.
+
+5. Customer purchasing behaviour differed by segment, with the Consumer segment contributing the largest share of sales.
+
+6. Regional performance differences suggest opportunities for targeted sales and marketing strategies.
