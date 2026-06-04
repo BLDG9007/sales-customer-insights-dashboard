@@ -45,7 +45,7 @@ This dashboard helps stakeholders monitor sales performance, evaluate profitabil
 ## 📷 Dashboard Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](screenshots/dashboard_overview_sales_&_customer_insights.png)
+![Dashboard Overview](screenshots/dashboard_overview.png)
 
 ### Sales Trend Analysis
 ![Sales Trend](screenshots/sales_trend.png)
